@@ -1,0 +1,18 @@
+class IncrementAndDecrement{
+public static void main(String args[]){
+int a=5;
+int b=10;
+a++;			//5+1
+System.out.println(a);
+a--;			//6-1
+System.out.println(a); 
+b--;			//10-1
+System.out.println(b); 
+b++;			//9+1
+System.out.println(b); 
+
+
+
+
+}
+}
