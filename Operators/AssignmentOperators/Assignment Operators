@@ -1,0 +1,17 @@
+class AssignmentOperators{
+public static void main(String args[]){
+int a =90;
+a+=90;	//same as a=a+90
+System.out.println(a);
+a-=10;	//same as a=180 a=180-10 =170
+System.out.println(a);
+a/=17;	// same as a=170/17=10
+System.out.println(a);
+a*=15;	//same as a=10*15=150
+System.out.println(a);
+a%=13;	//same as a=150%13
+System.out.println(a);
+}
+
+
+}
