@@ -1,6 +1,6 @@
 class AssignmentOperators{
 public static void main(String args[]){
-int a =90;
+int a =90; 
 a+=90;	//same as a=a+90
 System.out.println(a);
 a-=10;	//same as a=180 a=180-10 =170
