@@ -1,7 +1,7 @@
 package switchstatement;
-//Day of the Week: Create a program that takes an integer input (1-7)
-//representing a day of the week and outputs the corresponding day using a
-//switch-case statement.
+// Day of the Week: Create a program that takes an integer input (1-7)
+// representing a day of the week and outputs the corresponding day using a
+// switch-case statement.
 public class SwitchStatementEx02 {
 
 	public static void main(String[] args) {
