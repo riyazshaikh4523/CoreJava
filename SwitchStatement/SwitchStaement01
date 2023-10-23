@@ -6,7 +6,7 @@ package switchstatement;
 public class SwitchStatementEx01 {
 
 	public static void main(String[] args) {
-			
+			   
 			int month=9;
 			switch(month){
 
